@@ -10,4 +10,4 @@
 ## Qt Creator
 
 ## Felgo Live Server
-Provides infra for hot realoading
+Provides infra for hot reloading
